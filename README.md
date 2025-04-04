@@ -1,9 +1,12 @@
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFmd2YzZW4yeTRmYjFsN3pkOWNoMzc4b2FnaGI1c280bTBpZnZlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4rVj0GvDNnhf32/giphy.gif" width="600" height="300"/>
+</div>
+
 # Christopher Novo
 ![ProfileImage](https://avatars.githubusercontent.com/u/182815124)
 
 # 💫 About Me:
 Hello, I’m Chris Novo, a passionate graphic designer and current student at <br>Eastern Washington University. I specialize in creating visually engaging content <br>for websites, logos, posters, flyers, UX design, and more. My goal is to craft designs <br>that not only look great but also communicate effectively and enhance <br>user experiences.
-
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Christopher-Novo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christophernovo@gmail.com) 
